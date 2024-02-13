@@ -1,3 +1,5 @@
 # mario-more
 
 https://cs50.harvard.edu/x/2024/psets/1/mario/more/
+
+cs50.h library needed -> https://cs50.readthedocs.io/libraries/cs50/c/
